@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Belajar Bersama Si Kancil",
+  "description": "Game edukasi interaktif anak usia dini bersama Si Kancil menjelajahi 6 pulau cerdas, dilengkapi ruang orang tua, laporan progres, dan audio interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
